@@ -93,12 +93,13 @@ npx playwright test -g "test name pattern"
 
 Test results will be displayed in the console upon completion, detailing which tests have passed or failed.
 
-Also, there will be HTML report generated.
+There will be HTML report generated.
 It can be opened in the browser to see the test results with the command:
 
 ```sh
 npx playwright show-report
 ```
+Also, test are integrated with the QASE App.
 
 ## Authors
 
