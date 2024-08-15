@@ -27,6 +27,8 @@ Tests are integrated with the QASE Test Management system
         ],
 ```
 Running a test would create a test run in QASE App with the results, screenshots, traces.
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/778c996d-d63c-4fde-a779-e9d2177c4ef8">
+
 
 ## Prerequisites
 
